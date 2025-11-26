@@ -1,0 +1,29 @@
+18.12.2023.|Belgrade| Vreme: Clear| Temperatura: 8.88 | Izlazak sunca: 7:10 AM | Zalazak sunca: 3:58 PM
+18.12.2023.|Baghdad| Vreme: Clear| Temperatura: 8.88 | Izlazak sunca: 7:10 AM | Zalazak sunca: 3:58 PM
+18.12.2023.|New York| Vreme: Clear| Temperatura: 8.88 | Izlazak sunca: 7:10 AM | Zalazak sunca: 3:58 PM
+18.12.2023.|Belgrade| Vreme: Clear| Temperatura: 9.03 | Izlazak sunca: 7:10 AM | Zalazak sunca: 3:58 PM
+18.12.2023.|Novgorod| Vreme: Clouds| Temperatura: 0.07 | Izlazak sunca: 7:41 AM | Zalazak sunca: 2:01 PM
+18.12.2023.|Budapest| Vreme: Clear| Temperatura: 6.8 | Izlazak sunca: 7:26 AM | Zalazak sunca: 3:53 PM
+18.12.2023.|Sombor| Vreme: Clear| Temperatura: 7.95 | Izlazak sunca: 7:19 AM | Zalazak sunca: 4:00 PM
+18.12.2023.|Subotica| Vreme: Clear| Temperatura: 8.31 | Izlazak sunca: 7:18 AM | Zalazak sunca: 3:56 PM
+18.12.2023.|Mladenovac| Vreme: Clear| Temperatura: 8.33 | Izlazak sunca: 7:08 AM | Zalazak sunca: 3:58 PM
+18.12.2023.|Zagreb| Vreme: Clear| Temperatura: 9.91 | Izlazak sunca: 7:32 AM | Zalazak sunca: 4:12 PM
+18.12.2023.|London| Vreme: Clouds| Temperatura: 11.76 | Izlazak sunca: 9:01 AM | Zalazak sunca: 4:52 PM
+18.12.2023.|Lisabon| Vreme: Clouds| Temperatura: 13.25 | Izlazak sunca: 8:49 AM | Zalazak sunca: 6:16 PM
+18.12.2023.|Dubrovnik| Vreme: Clear| Temperatura: 14.8 | Izlazak sunca: 7:12 AM | Zalazak sunca: 4:15 PM
+18.12.2023.|Rovinj| Vreme: Clear| Temperatura: 14.27 | Izlazak sunca: 7:38 AM | Zalazak sunca: 4:24 PM
+18.12.2023.|Trogir| Vreme: Clear| Temperatura: 15.03 | Izlazak sunca: 7:22 AM | Zalazak sunca: 4:19 PM
+18.12.2023.|Vukovar| Vreme: Clear| Temperatura: 8.87 | Izlazak sunca: 7:18 AM | Zalazak sunca: 4:02 PM
+18.12.2023.|Krk| Vreme: Clear| Temperatura: 15.55 | Izlazak sunca: 7:35 AM | Zalazak sunca: 4:21 PM
+18.12.2023.|Dugo Selo| Vreme: Clear| Temperatura: 10.98 | Izlazak sunca: 7:31 AM | Zalazak sunca: 4:11 PM
+18.12.2023.|Knin| Vreme: Clouds| Temperatura: 13.4 | Izlazak sunca: 7:24 AM | Zalazak sunca: 4:18 PM
+18.12.2023.|Zlatar| Vreme: Clear| Temperatura: 8.23 | Izlazak sunca: 7:33 AM | Zalazak sunca: 4:11 PM
+18.12.2023.|Paris| Vreme: Mist| Temperatura: 1.2 | Izlazak sunca: 8:39 AM | Zalazak sunca: 4:54 PM
+18.12.2023.|Bordeaux| Vreme: Fog| Temperatura: 1.15 | Izlazak sunca: 8:34 AM | Zalazak sunca: 5:22 PM
+18.12.2023.|Belgrade| Vreme: Clear| Temperatura: 8.72 | Izlazak sunca: 7:10 AM | Zalazak sunca: 3:58 PM
+18.12.2023.|Belgrade| Vreme: N/A| Temperatura: N/A | Izlazak sunca: N/A | Zalazak sunca: N/A
+18.12.2023.|Baghdad| Vreme: Clouds| Temperatura: 14.95 | Izlazak sunca: 5:00 AM | Zalazak sunca: 2:57 PM
+18.12.2023.|Taiwan| Vreme: Clear| Temperatura: 13.58 | Izlazak sunca: 11:32 PM | Zalazak sunca: 10:11 AM
+18.12.2023.|Baghdad| Vreme: Clouds| Temperatura: 14.95 | Izlazak sunca: 5:00 AM | Zalazak sunca: 2:57 PM
+18.12.2023.|Kuwait| Vreme: Clouds| Temperatura: 18.81 | Izlazak sunca: 4:36 AM | Zalazak sunca: 2:52 PM
+18.12.2023.|BElgrade| Vreme: Clear| Temperatura: 3.12 | Izlazak sunca: 7:10 AM | Zalazak sunca: 3:58 PM
