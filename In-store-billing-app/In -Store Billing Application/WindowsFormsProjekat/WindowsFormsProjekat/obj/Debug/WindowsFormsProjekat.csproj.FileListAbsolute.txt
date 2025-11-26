@@ -1,0 +1,31 @@
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\WindowsFormsProjekat.exe.config
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\WindowsFormsProjekat.exe
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\WindowsFormsProjekat.pdb
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csprojAssemblyReference.cache
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.Properties.Resources.resources
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.GenerateResource.cache
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.CoreCompileInputs.cache
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.exe
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.pdb
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.PocetniEkran.resources
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.AdministracijaIStatistika.resources
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\Newtonsoft.Json.dll
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\Newtonsoft.Json.xml
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.CopyComplete
+F:\Preuzimanja\Projekat_Windows_Forme\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.Prodaja_Naplata.resources
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\WindowsFormsProjekat.exe.config
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\WindowsFormsProjekat.exe
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\WindowsFormsProjekat.pdb
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\Newtonsoft.Json.dll
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\bin\Debug\Newtonsoft.Json.xml
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.AssemblyReference.cache
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.SuggestedBindingRedirects.cache
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.AdministracijaIStatistika.resources
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.PocetniEkran.resources
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.Prodaja_Naplata.resources
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.Properties.Resources.resources
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.GenerateResource.cache
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.CoreCompileInputs.cache
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.csproj.CopyComplete
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.exe
+F:\Preuzimanja\New folder\In-store-billing-app\In -Store Billing Application\WindowsFormsProjekat\WindowsFormsProjekat\obj\Debug\WindowsFormsProjekat.pdb

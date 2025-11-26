@@ -1,0 +1,268 @@
+[
+  {
+    "artikali": [],
+    "Naziv": "Deterdžent za mašinsko pranje MERIX 3KG",
+    "IdKategorije": 0,
+    "Cena": 290.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Domestos 750 ml",
+    "IdKategorije": 0,
+    "Cena": 189.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Deterdžent za pranje posuđa Fairy 500 ml",
+    "IdKategorije": 0,
+    "Cena": 120.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Deterdžent za pranje posuđa Fairy 1 L",
+    "IdKategorije": 0,
+    "Cena": 200.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Omekšivač za rublje Lenor 0.5 L",
+    "IdKategorije": 0,
+    "Cena": 300.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Pena za brijanje 300 ml",
+    "IdKategorije": 1,
+    "Cena": 300.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Krema za ruke 500 g",
+    "IdKategorije": 1,
+    "Cena": 400.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Šampon za kosu H.Sh 200 ml",
+    "IdKategorije": 1,
+    "Cena": 250.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Sapun glicerinski 80 g",
+    "IdKategorije": 1,
+    "Cena": 69.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Krema za ruke Nivea",
+    "IdKategorije": 1,
+    "Cena": 150.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Sapun 100 g",
+    "IdKategorije": 1,
+    "Cena": 55.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Krema za lice Nivea",
+    "IdKategorije": 1,
+    "Cena": 320.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Balsam za kosu 200 ml",
+    "IdKategorije": 1,
+    "Cena": 250.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Tečni Sapun 500 ml",
+    "IdKategorije": 1,
+    "Cena": 175.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Balsam za kosu 500 ml",
+    "IdKategorije": 1,
+    "Cena": 400.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Dezodorans ženski Nivea",
+    "IdKategorije": 1,
+    "Cena": 300.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Krompir",
+    "IdKategorije": 2,
+    "Cena": 300.0,
+    "JedinicaMere": "kg"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Sargarepa",
+    "IdKategorije": 2,
+    "Cena": 300.0,
+    "JedinicaMere": "kg"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Luk",
+    "IdKategorije": 2,
+    "Cena": 150.0,
+    "JedinicaMere": "kg"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Cvekla",
+    "IdKategorije": 2,
+    "Cena": 150.0,
+    "JedinicaMere": "kg"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Lubenica",
+    "IdKategorije": 2,
+    "Cena": 20.0,
+    "JedinicaMere": "kg"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Vino Crno 1L",
+    "IdKategorije": 3,
+    "Cena": 900.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Pivo Heineken 0.5L",
+    "IdKategorije": 3,
+    "Cena": 95.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Pivo Zaječarac 0.5L",
+    "IdKategorije": 3,
+    "Cena": 67.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Rakija od šljive Takovo 0.5L",
+    "IdKategorije": 3,
+    "Cena": 1200.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Frižider",
+    "IdKategorije": 4,
+    "Cena": 35000.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Usisivač",
+    "IdKategorije": 4,
+    "Cena": 12000.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Punjač za Xaomi",
+    "IdKategorije": 4,
+    "Cena": 3000.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Xaomi Redmi Note 11",
+    "IdKategorije": 4,
+    "Cena": 23999.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Xaomi Trotinet",
+    "IdKategorije": 4,
+    "Cena": 24999.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Majica",
+    "IdKategorije": 5,
+    "Cena": 300.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Farmerke crne XL",
+    "IdKategorije": 5,
+    "Cena": 1200.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Dukserica M",
+    "IdKategorije": 5,
+    "Cena": 2499.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Džordanke S",
+    "IdKategorije": 5,
+    "Cena": 4999.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Krema za suncanje 0.2L",
+    "IdKategorije": 1,
+    "Cena": 199.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Krema za lice BU",
+    "IdKategorije": 1,
+    "Cena": 300.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "Sminka",
+    "IdKategorije": 1,
+    "Cena": 500.0,
+    "JedinicaMere": "kom"
+  },
+  {
+    "artikali": [],
+    "Naziv": "OMEKSIVAC ZA VES PRVI SNEG 2L BAS BAS",
+    "IdKategorije": 0,
+    "Cena": 259.99,
+    "JedinicaMere": "kom"
+  }
+]
