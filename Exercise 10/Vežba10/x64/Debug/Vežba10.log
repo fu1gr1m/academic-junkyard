@@ -1,0 +1,5 @@
+﻿  _main_.cpp
+  funkcije.cpp
+  Generating Code...
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba10\Vežba10\funkcije.cpp(224): warning C4715: 'datumi::uporedjivanje': not all control paths return a value
+  Vežba10.vcxproj -> F:\Preuzimanja\CPP_Za_Fakultet\Vežba10\x64\Debug\Vežba10.exe

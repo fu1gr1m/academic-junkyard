@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PUSH CALL PTR.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  _main_.cpp
+F:\Preuzimanja\Cpp-Exercises\Cpp-Exercises\Game on luck 7 of 43\_main_.cpp(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Preuzimanja\Cpp-Exercises\Cpp-Exercises\Game on luck 7 of 43\_main_.cpp(9,14): warning C4101: 'b': unreferenced local variable
+  PUSH CALL PTR.vcxproj -> F:\Preuzimanja\Cpp-Exercises\Cpp-Exercises\Game on luck 7 of 43\x64\Debug\Game on luck 7 of 43.exe

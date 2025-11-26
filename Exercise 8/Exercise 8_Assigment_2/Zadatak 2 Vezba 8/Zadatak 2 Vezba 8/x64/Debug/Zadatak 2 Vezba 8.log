@@ -1,0 +1,15 @@
+﻿  Source.cpp
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(54,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(55,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(56,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(57,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(116,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(117,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(118,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(119,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(404,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(428,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(429,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(430,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\Zadatak 2 Vezba 8\Source.cpp(431,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Zadatak 2 Vezba 8.vcxproj -> F:\Preuzimanja\CPP_Za_Fakultet\Vežba 8_Zadatak_2\Zadatak 2 Vezba 8\x64\Debug\Zadatak 2 Vezba 8.exe
