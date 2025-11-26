@@ -1,0 +1,5 @@
+﻿  _main_.cpp
+  funkcije.cpp
+F:\Preuzimanja\CPP_Za_Fakultet\Vezba12\Vezba12\funkcije.cpp(39,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Vezba12.vcxproj -> F:\Preuzimanja\CPP_Za_Fakultet\Vezba12\x64\Debug\Vezba12.exe
