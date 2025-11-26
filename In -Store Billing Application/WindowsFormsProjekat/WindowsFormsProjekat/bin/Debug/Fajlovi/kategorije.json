@@ -1,0 +1,32 @@
+[
+  {
+    "kategorije": [],
+    "Naziv": "Kućna Hemija",
+    "Id": 0
+  },
+  {
+    "kategorije": [],
+    "Naziv": "Kozmetika",
+    "Id": 1
+  },
+  {
+    "kategorije": [],
+    "Naziv": "Pijaca",
+    "Id": 2
+  },
+  {
+    "kategorije": [],
+    "Naziv": "Alkoholna Pića",
+    "Id": 3
+  },
+  {
+    "kategorije": [],
+    "Naziv": "Tehnika",
+    "Id": 4
+  },
+  {
+    "kategorije": [],
+    "Naziv": "Odeća",
+    "Id": 5
+  }
+]
